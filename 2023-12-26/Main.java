@@ -37,5 +37,6 @@ public class Main {
     list.removeLast();
     System.out.println(list.indexOf(90));
     System.out.println(list.contains(100));
+    System.out.println("I'm supersonic");
   }
 }
