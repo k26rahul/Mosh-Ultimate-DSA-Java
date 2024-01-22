@@ -1,3 +1,5 @@
+package pkg202312;
+
 import java.util.NoSuchElementException;
 
 public class LinkedList {
