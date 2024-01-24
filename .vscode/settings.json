@@ -3,6 +3,7 @@
   "java.project.outputPath": "bin",
   "files.exclude": {
     // "src/**/*.class": true
-  }
+  },
+  "java.debug.settings.onBuildFailureProceed": true
   // "editor.lightbulb.enabled": false
 }
