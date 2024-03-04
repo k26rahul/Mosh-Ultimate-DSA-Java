@@ -1,4 +1,4 @@
-# Java-DSA
+# Mosh-Ultimate-DSA-Java
 
 Practicing data structures in Java based on Mosh Hamedani's [Ultimate Data Structures & Algorithms](https://codewithmosh.com/p/data-structures-algorithms) course.
 
