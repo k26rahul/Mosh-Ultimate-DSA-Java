@@ -2,8 +2,7 @@
   "java.project.sourcePaths": ["src"],
   "java.project.outputPath": "bin",
   "files.exclude": {
-    // "src/**/*.class": true
+    "src/**/*.class": true
   },
   "java.debug.settings.onBuildFailureProceed": true
-  // "editor.lightbulb.enabled": false
 }
